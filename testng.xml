@@ -3,7 +3,7 @@
 <suite name="Suite1" verbose="1" >
     <parameter name="firstname" value="Benjamin"/>
     <parameter name="lastname" value="Wang" />
-    
+
     <test name="CheckinTest">
         <groups>
             <run>
